@@ -16,3 +16,12 @@ span{
 .group2{
     color:#237804
 }
+body {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+h1 {
+  font-size: 3rem;
+}
